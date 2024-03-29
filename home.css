@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.containerImg {
+    width: 500px;
+    height: 500px;
+    overflow: hidden;
+}
+
+.ballon {
+    width: 100%;
+}
